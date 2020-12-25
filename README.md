@@ -1,7 +1,7 @@
 # Contents
 
 * [Tips to upgrade/migrate OpenSSL libs : OpenSSL (libssl libcrypto) の version を 1.1未満(1.0.2以前) から 1.1 以降に変更する方法や注意点など](https://kazkobara.github.io/openssl-migration)
-* [EBCIC: Exact Binomial Confidence Interval Calculator](https://kazkobara.github.io/ebicic/)
+* [EBCIC: Exact Binomial Confidence Interval Calculator](https://kazkobara.github.io/ebcic/)
 * [Dockerfile for local use FSWiki (FreeStyleWiki)](https://kazkobara.github.io/dockerfile_fswiki_local/)
 * [Tips written in Japanese "小ネタ集"](https://kazkobara.github.io/tips-jp) 
   * [docker network の subnet を指定する際に使うべきでないネットワークアドレス](docker/subnet.md)
