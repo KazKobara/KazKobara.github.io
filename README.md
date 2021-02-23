@@ -5,6 +5,7 @@
 * [Dockerfile for local use FSWiki (FreeStyleWiki)](https://kazkobara.github.io/dockerfile_fswiki_local/)
   * [A dark look-and-feel version of FreeStyleWiki's kati theme](https://kazkobara.github.io/kati_dark)
 * [Tips written in Japanese "小ネタ集"](https://kazkobara.github.io/tips-jp)
+  * [git push で `EOFoading LFS objects:` `error: failed to push some refs to '/` などのエラーが出た場合の解決方法](https://kazkobara.github.io/tips-jp/linux/git_faild_to_push_some_refs.md) 
   * [pdftk でパスワードをコマンドラインに書かないようにする方法](https://kazkobara.github.io/tips-jp/linux/password_prompt_in_pdftk.md)
   * [docker network の subnet を指定する際に使うべきでないネットワークアドレス](https://kazkobara.github.io/tips-jp/docker/subnet.html)
   * [docker run の "--mount", "--volume", "-v" のホストパスを WSL 上で指定する際の注意点](https://kazkobara.github.io/tips-jp/docker/bind-mount-wsl.html)
