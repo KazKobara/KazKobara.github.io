@@ -9,6 +9,7 @@
   - In Japanese, "OpenSSL (libssl libcrypto) の version を 1.1未満(1.0.2以前) から 1.1 以降に変更する方法や注意点など"
 - [Dockerfile for local use FSWiki (FreeStyleWiki)](https://kazkobara.github.io/dockerfile_fswiki_local/)
   - [A dark look-and-feel version of FreeStyleWiki's kati theme](https://kazkobara.github.io/kati_dark)
+  - In Japanese, [Markdown を FSWiki で Content Security Policy (CSP)と共に使う方法](https://kazkobara.github.io/kati_dark/docs/markdown/markdown_plugin_for_fswiki.html)
 - [Tips of C language "C言語の小ネタ集" in Japanese](https://kazkobara.github.io/c-resource-mgmt/)
   - [型 --サイズの確認--](https://kazkobara.github.io/c-resource-mgmt/sizeof.html)
   - [構造体 --漏洩させないための注意点--](https://kazkobara.github.io/c-resource-mgmt/struct.html)
@@ -29,6 +30,12 @@
 - [ORCiD Connecting Research and Researchers](https://orcid.org/0000-0002-4854-5742)
 - [ResearchGate](https://www.researchgate.net/profile/Kazukuni-Kobara)
 - [Google Scholar](https://scholar.google.co.jp/scholar?as_sdt=2007&q=Kazukuni+Kobara)
+- [Publons](https://publons.com/researcher/2224023/kazukuni-kobara/)
 - [KAKEN (in Japanese)](https://nrid.nii.ac.jp/nrid/1000070323649/)
 - [researchmap (in Japanese)](https://researchmap.jp/KazKobara/)
 - [J-GLOBAL (in Japanese)](https://jglobal.jst.go.jp/detail/?JGLOBAL_ID=200901051249623484)
+
+---
+
+- [https://github.com/KazKobara/](https://github.com/KazKobara/)
+- [https://kazkobara.github.io/ (mostly in Japanese)](https://kazkobara.github.io/)
