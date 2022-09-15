@@ -6,7 +6,7 @@
 
 - [EBCIC: Exact Binomial Confidence Interval Calculator](https://kazkobara.github.io/ebcic/)
   - [Page on PyPI](https://pypi.org/project/ebcic/)
-- [Plot OpenSSL Speed](https://kazkobara.github.io/plot-openssl-speed/README-jp.html)
+- [Plot OpenSSL Speed](https://kazkobara.github.io/plot-openssl-speed/)
   - How to plot openssl speed results easily.
 - [Tips to upgrade/migrate OpenSSL libs (in Japanese)](https://kazkobara.github.io/openssl-migration)
 - [Dockerfile and docker-compose.yml for local use FSWiki (FreeStyleWiki)](https://kazkobara.github.io/dockerfile_fswiki_local/)
