@@ -4,10 +4,7 @@
 
 <!-- Replace '.md' with '.html', and add 'https://kazkobara.github.io/tips-jp' -->
 
-## [EBCIC: Exact Binomial Confidence Interval Calculator](https://github.com/KazKobara/ebcic/blob/master/README-jp.md)
-<!--
-以下だと図が表示されない。
-(https://kazkobara.github.io/ebcic/README-jp.html)-->
+## [EBCIC: Exact Binomial Confidence Interval Calculator](https://kazkobara.github.io/ebcic/README-jp.html)
 
 - ベルヌーイ試行において母比率の信頼区間を厳密に計算したり他の近似区間との差などを図示したりするための Python プログラム
 - [PyPIのページ](https://pypi.org/project/ebcic/)
