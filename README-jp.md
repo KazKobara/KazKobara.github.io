@@ -16,9 +16,10 @@
 - [OpenSSL アップグレード](https://kazkobara.github.io/openssl-migration)
   - OpenSSL (libssl libcrypto) の version を 1.1未満(1.0.2以前) から 1.1 以降に変更する方法や注意点など
 
-## [FreeStyleWiki (FSWiki)](https://fswiki.osdn.jp/cgi-bin/wiki.cgi) 関連
+## [FreeStyleWiki (FSWiki)](https://fswiki.osdn.jp/cgi-bin/wiki.cgi), Markdown, MathJax 関連
 
 - [LaTeX や MathML を表示するための MathJax や Markdown を Content Security Policy (CSP) と共に FSWiki で使う方法](https://kazkobara.github.io/kati_dark/docs/markdown/markdown_plugin_for_fswiki.html) ([Dockerfile と docker-compose.yml](https://kazkobara.github.io/dockerfile_fswiki_local/))
+  - 上記で利用可能な Markdown 構文 ([Help/Markdown (HTML版)](https://kazkobara.github.io/kati_dark/docs/markdown/Help_Markdown_for_FreeStyleWiki.htm "https://kazkobara.github.io/kati_dark/docs/markdown/Help_Markdown_for_FreeStyleWiki.htm"))
 - [kati テーマのダーク版](https://kazkobara.github.io/kati_dark)
 
 ## [C言語の小ネタ](https://kazkobara.github.io/c-resource-mgmt/)
