@@ -6,8 +6,10 @@
 
 - [EBCIC: Exact Binomial Confidence Interval Calculator](https://kazkobara.github.io/ebcic/)
   - [Page on PyPI](https://pypi.org/project/ebcic/)
+- [pairing_bench.sh](https://kazkobara.github.io/plot-openssl-speed/README-pairing-bench.html)
+  - A script to measure and depict the processing speed of the bilinear map, or pairing.
 - [Plot OpenSSL Speed](https://kazkobara.github.io/plot-openssl-speed/)
-  - How to plot openssl speed results easily.
+  - How to easily plot OpenSSL speed results and more.
 - [Tips to upgrade/migrate OpenSSL libs (in Japanese)](https://kazkobara.github.io/openssl-migration)
 - [Dockerfile and docker-compose.yml for local use FSWiki (FreeStyleWiki)](https://kazkobara.github.io/dockerfile_fswiki_local/)
   - With Markdown Plugin, CSP (Content Security Policy), and LaTeX/MathML rendering using MathJax. (Details are written in Japanese)

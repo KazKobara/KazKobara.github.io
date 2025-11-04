@@ -16,6 +16,11 @@
 - [OpenSSL アップグレード](https://kazkobara.github.io/openssl-migration)
   - OpenSSL (libssl libcrypto) の version を 1.1未満(1.0.2以前) から 1.1 以降に変更する方法や注意点など
 
+## 双線形写像(ペアリング)関連
+
+- [pairing_bench.sh](https://kazkobara.github.io/plot-openssl-speed/README-pairing-bench-jp.html)
+  - 双線形写像(ペアリング)の処理速度を計測し結果をグラフ描画するスクリプト
+
 ## [FreeStyleWiki (FSWiki)](https://fswiki.osdn.jp/cgi-bin/wiki.cgi), Markdown, MathJax 関連
 
 - [ローカルユース用 Docker FSWiki](https://kazkobara.github.io/dockerfile_fswiki_local/README-jp.html)
